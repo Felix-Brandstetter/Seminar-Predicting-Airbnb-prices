@@ -1,0 +1,6 @@
+existing projects/*
+.venv/*
+ideen.txt
+Data/*
+Bilder/*
+!Data/Airbnb_data.csv
